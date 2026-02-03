@@ -1,4 +1,4 @@
-public class secondLesson {
+public class Variables {
     public static void main(String[] args) {
         int myInt;
         myInt = 4;
